@@ -1,4 +1,4 @@
-# minecraft-server | Família Top Craft
+# Família Top Craft
 
 ###Passo a passo###
 
