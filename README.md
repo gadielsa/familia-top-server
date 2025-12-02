@@ -1,6 +1,6 @@
 # Família Top Craft
 
-# Passo a passo
+## Passo a passo
 
 ### Iniciando o servidor no terminal
 
